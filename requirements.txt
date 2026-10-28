@@ -1,0 +1,12 @@
+yfinance
+pandas
+numpy
+scikit-learn
+scipy
+lightgbm
+xgboost
+fredapi
+streamlit
+plotly
+pytrends
+matplotlib

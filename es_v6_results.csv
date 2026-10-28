@@ -1,0 +1,3 @@
+data_date,signal,size,status,trade_date,es_open,es_close,es_change_pct,direction_correct,pnl_points,pnl_dollars
+2026-03-13,BUY,2,SCORED,2026-03-16,6608.50,6704.75,1.46%,✓,96.25,962.50
+2026-10-23,BUY,3,PENDING,,,,,,,

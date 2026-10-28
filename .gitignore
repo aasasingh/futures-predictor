@@ -1,0 +1,8 @@
+# secrets
+fred_key.txt
+.env
+
+# local
+__pycache__/
+.claude/settings.local.json
+es_v6_run_log.txt
